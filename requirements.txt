@@ -1,0 +1,12 @@
+google
+jupyter
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+seaborn
+string
+tensorflow
+wordcloud
+xgboost
