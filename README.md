@@ -6,7 +6,7 @@
 ## 📦 Project Contents
 - `Spam_Mail_Classifier.ipynb` — End‑to‑end notebook with preprocessing, feature engineering, and modeling.  
 - `requirements.txt` — Reproducible environment.  
-- `.gitignore`, `LICENSE` — Clean, recruiter‑ready setup.  
+- `.gitignore`, `LICENSE` — Clean, ready setup.  
 
 ## 🧠 Problem Statement
 Spam mails are a major issue in communication systems. This project aims to automate spam detection by training a classifier on a labeled dataset of emails.
