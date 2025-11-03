@@ -28,9 +28,8 @@ Python, Pandas, NumPy, Matplotlib, Scikit‑learn, NLTK, Jupyter Notebook.
 
 ## 🚀 How to Run
 ```bash
-pip install -r requirements.txt
-jupyter notebook
-# then open: Spam_Mail_Classifier.ipynb
+This is a colab notebook and dataset is fetched from my google drive. You can just run in from your own colab and change the dataset location
+to your drive.
 ```
 
 ## 🧾 License
