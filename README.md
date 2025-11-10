@@ -26,11 +26,5 @@ Python, Pandas, NumPy, Matplotlib, Scikit‑learn, NLTK, Jupyter Notebook.
 - Demonstrated text preprocessing & feature extraction for NLP tasks.  
 - Delivered interpretable model with practical business value in email filtering.  
 
-## 🚀 How to Run
-```bash
-This is a colab notebook and dataset is fetched from my google drive. You can just run in from your own colab and change the dataset location
-to your drive.
-```
-
 ## 🧾 License
 MIT — free for review and use.
